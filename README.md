@@ -20,7 +20,7 @@ A clean, responsive, and interactive web application to help you track your inco
 
 - **HTML** – Markup and layout
 - **CSS** – Custom styling with modern UI and responsive design
-- **JavaScript (ES6+)** – Application logic and DOM manipulation
+- **JavaScript** – Application logic and DOM manipulation
 - **Chart.js** – Data visualization
 
 ---
